@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yazid</h1>
+<h3 align="center">Just a guy who loves video games.</h3>
+
+<h3>💫 About Me:</h3> 
+🌱 I'm currently trying to learn GameDev
+
+<h3>📊 Github Stats:</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazidazfa&layout=compact)
 
 <!--
 **yazidazfa/yazidazfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
